@@ -1,0 +1,2 @@
+E:\CppWorkspace\PELoader\Debug\PELoader.exe
+E:\CppWorkspace\PELoader\Debug\PELoader.pdb
